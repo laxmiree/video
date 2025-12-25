@@ -181,7 +181,7 @@ Lucien: And when that time comes, do remember to give me good luck and support t
 
 46
 00:05:30,666 --> 00:05:40,650
-¹: 神奇 (shén qí) is the key term of this story; it is a two-character compound word made up of two words: 神 (shén - literally "god" or "divine”) and 奇 (qí- literally "strange," "rare," "unusual”). It refers not just to unexpected phenomena, but to events and maybe even presence that feel uncannily perfect, fated, or deeply moving, almost as if the universe has ✨aligned✨ just for you.
+[¹] 神奇 (shén qí) is the key term of this story; it is a two-character compound word made up of two words: 神 (shén - literally "god" or "divine”) and 奇 (qí- literally "strange," "rare," "unusual”). It refers not just to unexpected phenomena, but to events and maybe even presence that feel uncannily perfect, fated, or deeply moving, almost as if the universe has ✨aligned✨ just for you.
 
 47
 00:05:40,650 --> 00:05:46,466
@@ -189,7 +189,7 @@ In this translation, I will translate 神奇 as words like magical, wondrous, or
 
 48
 00:05:46,466 --> 00:05:54,916
-²: The idiom used for that description is 兴师问罪 (xīng shī wèn zuì), which literally means "to mobilize troops to question a crime." 兴师 refers to raising an army, while 问罪 means to hold someone accountable for wrongdoing. 
+[²] The idiom used for that description is 兴师问罪 (xīng shī wèn zuì), which literally means "to mobilize troops to question a crime." 兴师 refers to raising an army, while 问罪 means to hold someone accountable for wrongdoing. 
 
 49
 00:05:54,916 --> 00:06:01,500
@@ -197,7 +197,7 @@ Compared to just accusing sb, it's more dramatic and has that sense of righteous
 
 50
 00:06:01,500 --> 00:06:07,350
-³: "Teru teru bozu" (てるてる坊主) or known in Chinese as 晴天娃娃 (qíng tiān wá wa-literally means clear sky/sunny day doll) is a small handmade doll crafted from white cloth or paper and hung by windows to pray for sunny skies. 
+[³] "Teru teru bozu" (てるてる坊主) or known in Chinese as 晴天娃娃 (qíng tiān wá wa-literally means clear sky/sunny day doll) is a small handmade doll crafted from white cloth or paper and hung by windows to pray for sunny skies. 
 
 51
 00:06:07,350 --> 00:06:18,100
@@ -217,171 +217,171 @@ As for now, from the CN Server 2024 100 Days Countdown Event, Xu Mo's diary reve
 
 55
 00:06:44,283 --> 00:06:47,433
-Lucien: Professor Zeng? Is something the matter?
+[Lucien] Professor Zeng? Is something the matter?
 
 56
 00:06:47,433 --> 00:06:49,366
-Joshua: My apologies for disturbing your rest.
+[Joshua] My apologies for disturbing your rest.
 
 57
 00:06:49,366 --> 00:06:53,400
-Joshua: I called because I have some good news to share with you.
+[Joshua] I called because I have some good news to share with you.
 
 58
 00:06:53,400 --> 00:07:00,783
-Joshua: First, the project I've been working on made a major breakthrough today. I believe the following steps will go much more smoothly.
+[Joshua] First, the project I've been working on made a major breakthrough today. I believe the following steps will go much more smoothly.
 
 59
 00:07:00,783 --> 00:07:04,150
-Lucien: That's great. Everyone must be really happy, right?
+[Lucien] That's great. Everyone must be really happy, right?
 
 60
 00:07:04,150 --> 00:07:09,216
-Joshua: Yes, we were even afraid it might be a false reading, so we specifically ran multiple rounds of cross-verification.
+[Joshua] Yes, we were even afraid it might be a false reading, so we specifically ran multiple rounds of cross-verification.
 
 61
 00:07:09,216 --> 00:07:12,516
-Joshua: We've been running calculations since midnight, and it’s only now that we’re certain that there's no issue.
+[Joshua] We've been running calculations since midnight, and it’s only now that we’re certain that there's no issue.
 
 62
 00:07:12,516 --> 00:07:20,700
-Joshua: Looking back now, I realize it really has been a long time since this project was first launched…
+[Joshua] Looking back now, I realize it really has been a long time since this project was first launched…
 
 63
 00:07:20,700 --> 00:07:24,283
-Lucien: Mm, this is the project you brought into my lab.
+[Lucien] Mm, this is the project you brought into my lab.
 
 64
 00:07:24,283 --> 00:07:27,600
-Lucien: Just counting the time at the Bioscience Research Center, it's been about three years.
+[Lucien] Just counting the time at the Bioscience Research Center, it's been about three years.
 
 65
 00:07:27,600 --> 00:07:33,350
-Lucien: If we factor in the time you spent doing independent research beforehand, it's roughly been… about seven years?
+[Lucien] If we factor in the time you spent doing independent research beforehand, it's roughly been… about seven years?
 
 66
 00:07:33,350 --> 00:07:35,150
-Joshua: Seven years and eight months.⁴
+[Joshua] Seven years and eight months.⁴
 
 67
 00:07:35,150 --> 00:07:40,483
-Joshua: There was a time I thought I might have to wait a few more years before I could see any progress in the experiment.
+[Joshua] There was a time I thought I might have to wait a few more years before I could see any progress in the experiment.
 
 68
 00:07:40,483 --> 00:07:43,350
-Joshua: It seems I'm still quite lucky after all.
+[Joshua] It seems I'm still quite lucky after all.
 
 69
 00:07:43,350 --> 00:07:45,416
-Lucien: Congratulations to you.
+[Lucien] Congratulations to you.
 
 70
 00:07:45,416 --> 00:07:51,566
-Joshua: Thank you for your congratulations. After all, maybe in a few more years, we’ll be able to publish papers under the name of the Bioscience Research Institute!
+[Joshua] Thank you for your congratulations. After all, maybe in a few more years, we’ll be able to publish papers under the name of the Bioscience Research Institute!
 
 71
 00:07:51,566 --> 00:07:54,516
-Joshua: In any case, let's organize the data again.
+[Joshua] In any case, let's organize the data again.
 
 72
 00:07:54,516 --> 00:07:59,183
-Joshua: When you come to the research center next week, we will discuss the specifics in more detail.
+[Joshua] When you come to the research center next week, we will discuss the specifics in more detail.
 
 73
 00:07:59,183 --> 00:08:05,816
-Lucien: Alright. If there's no rush over the next few days, let the researchers in the team take some appropriate time off as well.⁵
+[Lucien] Alright. If there's no rush over the next few days, let the researchers in the team take some appropriate time off as well.⁵
 
 74
 00:08:05,816 --> 00:08:07,900
-Lucien: Everyone has been working hard lately.
+[Lucien] Everyone has been working hard lately.
 
 75
 00:08:07,900 --> 00:08:14,550
-Joshua: Will do. I noticed that while we were waiting for the data just now, a few of the young folks were already planning to go see the sea.
+[Joshua] Will do. I noticed that while we were waiting for the data just now, a few of the young folks were already planning to go see the sea.
 
 76
 00:08:14,550 --> 00:08:18,133
-Lucien: Then I'll be waiting to approve everyone’s leave applications.
+[Lucien] Then I'll be waiting to approve everyone’s leave applications.
 
 77
 00:08:18,133 --> 00:08:22,300
-Lucien: But you said "some" good news just now. Is there any other good news?
+[Lucien] But you said "some" good news just now. Is there any other good news?
 
 78
 00:08:22,300 --> 00:08:26,050
-Joshua: So here's the thing. Didn't you submit two papers?
+[Joshua] So here's the thing. Didn't you submit two papers?
 
 79
 00:08:26,050 --> 00:08:29,250
-Joshua: I got the news today that both papers were accepted.
+[Joshua] I got the news today that both papers were accepted.
 
 80
 00:08:29,250 --> 00:08:34,316
-Lucien: Hm? I thought the reviewers would raise a few more rounds of feedback.
+[Lucien] Hm? I thought the reviewers would raise a few more rounds of feedback.
 
 81
 00:08:34,316 --> 00:08:40,750
-Joshua: Yes. So as soon as the news came in today, Xiao Luo was overjoyed; he even asked if I wanted to go with him to fulfill his vow.⁶
+[Joshua] Yes. So as soon as the news came in today, Xiao Luo was overjoyed; he even asked if I wanted to go with him to fulfill his vow.⁶
 
 82
 00:08:40,750 --> 00:08:44,816
-Joshua: I don't have the energy to run around with him, and I'm not much of a believer in that sort of thing…
+[Joshua] I don't have the energy to run around with him, and I'm not much of a believer in that sort of thing…
 
 83
 00:08:44,816 --> 00:08:49,066
-Joshua: Still, today really is worthy of being called a 'lucky day.'
+[Joshua] Still, today really is worthy of being called a 'lucky day.'
 
 84
 00:08:49,066 --> 00:08:51,166
-Lucien: Lucky day…
+[Lucien] Lucky day…
 
 85
 00:08:51,166 --> 00:08:53,850
-Joshua: What did you say just now?
+[Joshua] What did you say just now?
 
 86
 00:08:53,850 --> 00:08:55,683
-Lucien: Ah, it's nothing.
+[Lucien] Ah, it's nothing.
 
 87
 00:08:55,683 --> 00:08:59,450
-Lucien: It's just that I think people occasionally do need a little bit of good luck.
+[Lucien] It's just that I think people occasionally do need a little bit of good luck.
 
 88
 00:08:59,450 --> 00:09:07,183
-Joshua: After all, most of the time, aren't our preparations and efforts precisely about waiting for that tiny bit of luck to come knocking?
+[Joshua] After all, most of the time, aren't our preparations and efforts precisely about waiting for that tiny bit of luck to come knocking?
 
 89
 00:09:07,183 --> 00:09:11,033
-Lucien: Then it seems today is the day luck comes knocking.
+[Lucien] Then it seems today is the day luck comes knocking.
 
 90
 00:09:11,033 --> 00:09:12,483
-Joshua: Sure is!
+[Joshua] Sure is!
 
 91
 00:09:12,483 --> 00:09:17,166
-Joshua: Oh, and also, we're planning to have dinner together next Wednesday to celebrate.
+[Joshua] Oh, and also, we're planning to have dinner together next Wednesday to celebrate.
 
 92
 00:09:17,166 --> 00:09:20,766
-Joshua: If you have time, feel free to bring your significant other with you.⁷
+[Joshua] If you have time, feel free to bring your significant other with you.⁷
 
 93
 00:09:20,766 --> 00:09:24,250
-Lucien: Alright, I'll ask her about it later.
+[Lucien] Alright, I'll ask her about it later.
 
 94
 00:09:24,250 --> 00:09:26,450
-Joshua: Then I won't bother you any further.
+[Joshua] Then I won't bother you any further.
 
 95
 00:09:26,450 --> 00:09:29,516
-Joshua: Wish you a pleasant weekend. Goodbye.
+[Joshua] Wish you a pleasant weekend. Goodbye.
 
 96
 00:09:38,600 --> 00:09:48,283
-⁴: By July 2025, when the Kite SP card was released on the CN server, “seven years and eight months” is exactly how long the game has been out since the server’s initial launch, so it also marks seven years and eight months since we first met Lucien according to the in-game timeline,
+[⁴] By July 2025, when the Kite SP card was released on the CN server, “seven years and eight months” is exactly how long the game has been out since the server’s initial launch, so it also marks seven years and eight months since we first met Lucien according to the in-game timeline,
 
 97
 00:09:48,283 --> 00:09:59,816
@@ -389,7 +389,7 @@ This little detail makes it feel as if this date had been planned from the very 
 
 98
 00:10:00,033 --> 00:10:07,550
-⁵: Aww, I love it when growth from earlier stories carries over and shows up in later ones. Look at this guy’s development compared to 海不再遥远 SP (The Sea No Longer Far Away/Seaside at Last SP). 
+[⁵] Aww, I love it when growth from earlier stories carries over and shows up in later ones. Look at this guy’s development compared to 海不再遥远 SP (The Sea No Longer Far Away/Seaside at Last SP). 
 
 99
 00:10:07,550 --> 00:10:26,633
@@ -397,11 +397,11 @@ He went from someone who didn’t understand the value of rest (for himself or o
 
 100
 00:10:26,633 --> 00:10:37,666
-⁶: If you ask a god for help or make a wish to them, you're expected to return to that god's temple or statue to express your thanks once the wish comes true. This act is called 还愿 (huán yuàn), which means fulfilling a vow or repaying a spiritual promise.
+[⁶] If you ask a god for help or make a wish to them, you're expected to return to that god's temple or statue to express your thanks once the wish comes true. This act is called 还愿 (huán yuàn), which means fulfilling a vow or repaying a spiritual promise.
 
 101
 00:10:37,666 --> 00:10:46,450
-⁷: While 家属 (jiā shǔ) literally means family member, it's different from 家人 (jiā rén) as 家属 (jiā shǔ) often implies a legal or formally recognized familial relationship, someone legally acknowledged as part of their household, such as a spouse or dependent listed in official records.
+[⁷] While 家属 (jiā shǔ) literally means family member, it's different from 家人 (jiā rén) as 家属 (jiā shǔ) often implies a legal or formally recognized familial relationship, someone legally acknowledged as part of their household, such as a spouse or dependent listed in official records.
 
 102
 00:10:46,450 --> 00:10:56,266
@@ -3015,5 +3015,6 @@ From kites to fireflies, from red ribbons to red threads and even kite threads, 
 754
 01:17:00,250 --> 01:17:07,416
 Lucien, happy inner spring. Our kite has flown 🪁
+
 
 
