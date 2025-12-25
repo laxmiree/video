@@ -117,7 +117,7 @@ Lucien: After all, I also have things I want to look forward to.
 30
 00:03:50,250 --> 00:03:57,050
 As we chat, the phone screen dims, and only the heart-shaped lamp on the bookshelf remains lit, blending the two of us curled up on the sofa into its dreamy, romantic glow.
-//Trivia: The heart-shaped lamp is their gift from 7th anniversary!//
+//Trivia, The heart-shaped lamp is their gift from 7th anniversary!//
 
 31
 00:03:57,050 --> 00:04:03,733
@@ -3015,4 +3015,5 @@ From kites to fireflies, from red ribbons to red threads and even kite threads, 
 754
 01:17:00,250 --> 01:17:07,416
 Lucien, happy inner spring. Our kite has flown 🪁
+
 
