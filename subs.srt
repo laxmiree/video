@@ -16,7 +16,7 @@ Lucien: Looks like our answers are the same.
 
 5
 00:01:45,883 --> 00:01:49,650
-   …Really? So magical!¹
+MC: …Really? So magical!¹
 
 6
 00:01:49,650 --> 00:01:55,000
@@ -3015,3 +3015,4 @@ From kites to fireflies, from red ribbons to red threads and even kite threads, 
 754
 01:17:00,250 --> 01:17:07,416
 Lucien, happy inner spring. Our kite has flown 🪁
+
